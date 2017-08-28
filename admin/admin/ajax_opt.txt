@@ -1,0 +1,20 @@
+<?php
+if(isset($_POST['password']))
+{
+
+
+https://api.goprocessing.in/agentRegisterOTP.go?goid=5051060119&apikey=aLqG2qqtDHTn4GM&rtype=html&apimode=test&service_family=25&trans_id=170724900271602&otp=647383
+
+
+
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+curl_setopt($ch, CURLOPT_CAINFO,"GoCAcert.pem");
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 50);
+curl_setopt($ch, CURLOPT_TIMEOUT, 60); // Operators Time Out is 300 sec varies from operator to operator.
+$result = curl_exec($ch);
+curl_close($ch);
+
+?>

@@ -1,0 +1,19 @@
+[10-Jul-2017 06:39:42 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'final'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:39:42 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'final'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:39:42 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'final'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:39:42 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'final'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:39:42 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'final'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:39:45 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'final'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:45:48 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'final'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:45:48 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'final'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:45:48 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'final'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:45:51 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'final'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:46:26 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'jsnbopxa_rech'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 06:46:28 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'jsnbopxa_rech'@'localhost' (using password: YES) in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 08:00:46 Etc/GMT] PHP Warning:  mysql_connect(): User jsnbopxa_rech already has more than 'max_user_connections' active connections in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 08:00:46 Etc/GMT] PHP Warning:  mysql_connect(): User jsnbopxa_rech already has more than 'max_user_connections' active connections in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 08:01:17 Etc/GMT] PHP Warning:  mysql_connect(): User jsnbopxa_rech already has more than 'max_user_connections' active connections in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 08:01:17 Etc/GMT] PHP Warning:  mysql_connect(): User jsnbopxa_rech already has more than 'max_user_connections' active connections in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 08:01:17 Etc/GMT] PHP Warning:  mysql_connect(): User jsnbopxa_rech already has more than 'max_user_connections' active connections in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 10:06:03 Etc/GMT] PHP Warning:  mysql_connect(): User jsnbopxa_rech already has more than 'max_user_connections' active connections in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
+[10-Jul-2017 10:06:03 Etc/GMT] PHP Warning:  mysql_connect(): User jsnbopxa_rech already has more than 'max_user_connections' active connections in /home/jsnbopxa/public_html/recharge/config/connections.php on line 7
